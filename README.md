@@ -9,4 +9,5 @@ untuk menggunakan super harus mencantumkan kata kunci extends + nama kelas yang 
 
 
 ***
-Terima kasih telah membaca, semoga bermanfaat:)
+Terima kasih, semoga bermanfaat!!
+> Ailsa Aurellia (09030622047)
